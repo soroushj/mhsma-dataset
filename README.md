@@ -159,6 +159,59 @@ The following table shows the number of positive and negative examples in the da
   </tbody>
 </table>
 
+## Results
+
+If you would like to add a new result, you can [open a pull request](https://github.com/soroushj/mhsma-dataset/pulls).
+
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Label</th>
+      <th>Accuracy</th>
+      <th>Precision</th>
+      <th>Recall</th>
+      <th>F<sub>0.5</sub> score</th>
+      <th>G-mean</th>
+      <th>AUC</th>
+      <th>MCC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><a href="https://doi.org/10.1016/j.compbiomed.2019.04.030">A novel deep learning method for automatic assessment of human sperm images</a> (Apr 2019)</td>
+      <td>Acrosome</td>
+      <td>76.67</td>
+      <td>85.93</td>
+      <td>80.28</td>
+      <td>84.74</td>
+      <td>83.06</td>
+      <td>83.89</td>
+      <td>+0.4618</td>
+    </tr>
+    <tr>
+      <td>Head</td>
+      <td>77.00</td>
+      <td>83.48</td>
+      <td>85.39</td>
+      <td>83.86</td>
+      <td>84.43</td>
+      <td>77.80</td>
+      <td>+0.4053</td>
+    </tr>
+    <tr>
+      <td>Vacuole</td>
+      <td>91.33</td>
+      <td>94.36</td>
+      <td>95.80</td>
+      <td>94.65</td>
+      <td>95.08</td>
+      <td>88.08</td>
+      <td>+0.5910</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Citation
 
 If you use this dataset in your research, please kindly cite [our work](https://doi.org/10.1016/j.compbiomed.2019.04.030) as:
