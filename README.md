@@ -23,7 +23,7 @@ You can load the `.npy` files using [numpy.load](https://docs.scipy.org/doc/nump
 The details of the files are described in the table below.
 
 | File                   | Shape              | Type    | Description                           |
-| :--------------------- | :----------------- | :------ | :------------------------------------ |
+| ---------------------- | ------------------ | ------- | ------------------------------------- |
 | `x_128_train.npy`      | `(1000, 128, 128)` | `uint8` | Training set, 128x128-pixel version   |
 | `x_128_valid.npy`      | `(240, 128, 128)`  | `uint8` | Validation set, 128x128-pixel version |
 | `x_128_test.npy`       | `(300, 128, 128)`  | `uint8` | Test set, 128x128-pixel version       |
