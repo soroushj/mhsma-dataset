@@ -6,13 +6,13 @@ Each image is labeled by experts for normal or abnormal sperm acrosome, head, va
 The training, validation, and test sets contain 1000, 240, and 300 images, respectively.
 
 Images are available in two different crop sizes: 128x128- and 64x64-pixel.
-The following figure shows two versions of the same sample.
+The following figure shows two versions of the same instance.
 
-| 128x128-pixel                                         | 64x64-pixel                                         |
-| :---------------------------------------------------: | :-------------------------------------------------: |
-| ![Sample from MHSMA-128](sample/mhsma-128-sample.png) | ![Sample from MHSMA-64](sample/mhsma-64-sample.png) |
+| 128x128-pixel                                    | 64x64-pixel                                    |
+| :----------------------------------------------: | :--------------------------------------------: |
+| ![MHSMA-128 sample](sample/mhsma-128-sample.png) | ![MHSMA-64 sample](sample/mhsma-64-sample.png) |
 
-Each sample is a grayscale image capturing a single sperm.
+In MHSMA, each instance is a grayscale image capturing a single sperm.
 The head of the sperm is roughly located at the center of the image.
 Also, the sperm tail is not entirely visible in the images.
 
@@ -43,7 +43,7 @@ The details of the files are described in the table below.
 | `y_tail_valid.npy`     | `(240,)`           | `uint8` | Validation set labels for tail        |
 | `y_tail_test.npy`      | `(300,)`           | `uint8` | Test set labels for tail              |
 
-The distribution of samples is shown in the table below.
+The following table shows the number of positive and negative examples in the dataset.
 
 <table>
   <thead>
