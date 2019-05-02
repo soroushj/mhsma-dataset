@@ -159,7 +159,7 @@ The following table shows the number of positive and negative examples in the da
   </tbody>
 </table>
 
-## Citing
+## Citation
 
 If you use this dataset in your research, please kindly cite [our work](https://doi.org/10.1016/j.compbiomed.2019.04.030) as:
 
