@@ -43,6 +43,122 @@ The details of the files are described in the table below.
 | `y_tail_valid.npy`     | `(240,)`           | `uint8` | Validation set labels for tail        |
 | `y_tail_test.npy`      | `(300,)`           | `uint8` | Test set labels for tail              |
 
+The distribution of samples is shown in the table below.
+
+<table>
+  <thead>
+    <tr>
+      <th>Set</th>
+      <th>Label</th>
+      <th># Positive</th>
+      <th># Negative</th>
+      <th>% Positive</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Whole dataset</td>
+      <td>Acrosome</td>
+      <td>1,086</td>
+      <td>454</td>
+      <td>70.52</td>
+    </tr>
+    <tr>
+      <td>Head</td>
+      <td>1,122</td>
+      <td>418</td>
+      <td>72.86</td>
+    </tr>
+    <tr>
+      <td>Vacuole</td>
+      <td>1,301</td>
+      <td>239</td>
+      <td>84.48</td>
+    </tr>
+    <tr>
+      <td>Tail</td>
+      <td>1,471</td>
+      <td>69</td>
+      <td>95.52</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Training set</td>
+      <td>Acrosome</td>
+      <td>699</td>
+      <td>301</td>
+      <td>69.90</td>
+    </tr>
+    <tr>
+      <td>Head</td>
+      <td>727</td>
+      <td>273</td>
+      <td>72.70</td>
+    </tr>
+    <tr>
+      <td>Vacuole</td>
+      <td>830</td>
+      <td>170</td>
+      <td>83.00</td>
+    </tr>
+    <tr>
+      <td>Tail</td>
+      <td>954</td>
+      <td>46</td>
+      <td>95.40</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Validation set</td>
+      <td>Acrosome</td>
+      <td>174</td>
+      <td>66</td>
+      <td>72.50</td>
+    </tr>
+    <tr>
+      <td>Head</td>
+      <td>176</td>
+      <td>64</td>
+      <td>73.33</td>
+    </tr>
+    <tr>
+      <td>Vacuole</td>
+      <td>209</td>
+      <td>31</td>
+      <td>87.08</td>
+    </tr>
+    <tr>
+      <td>Tail</td>
+      <td>233</td>
+      <td>7</td>
+      <td>97.08</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Test set</td>
+      <td>Acrosome</td>
+      <td>213</td>
+      <td>87</td>
+      <td>71.00</td>
+    </tr>
+    <tr>
+      <td>Head</td>
+      <td>219</td>
+      <td>81</td>
+      <td>73.00</td>
+    </tr>
+    <tr>
+      <td>Vacuole</td>
+      <td>262</td>
+      <td>38</td>
+      <td>87.33</td>
+    </tr>
+    <tr>
+      <td>Tail</td>
+      <td>284</td>
+      <td>16</td>
+      <td>94.67</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Citing
 
 If you use this dataset in your research, please kindly cite [our work](https://doi.org/10.1016/j.compbiomed.2019.04.030) as:
