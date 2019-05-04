@@ -221,6 +221,8 @@ If you use this dataset in your research, please kindly cite [our work](https://
   title={A novel deep learning method for automatic assessment of human sperm images},
   author={Javadi, Soroush and Mirroshandel, Seyed Abolghasem},
   journal={Computers in Biology and Medicine},
+  volume={109},
+  pages={182--194},
   year={2019},
   doi={10.1016/j.compbiomed.2019.04.030}
 }
