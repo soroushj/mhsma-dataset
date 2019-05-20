@@ -179,7 +179,7 @@ If you would like to add a new result, you can [open a pull request](https://git
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3"><a href="https://doi.org/10.1016/j.compbiomed.2019.04.030">A novel deep learning method for automatic assessment of human sperm images</a> (Apr 2019)</td>
+      <td rowspan="3"><a href="https://authors.elsevier.com/a/1Y-8q2OYcrjqA">A novel deep learning method for automatic assessment of human sperm images</a> (Apr 2019)</td>
       <td>Acrosome</td>
       <td>76.67</td>
       <td>85.93</td>
@@ -214,7 +214,7 @@ If you would like to add a new result, you can [open a pull request](https://git
 
 ## Citation
 
-If you use this dataset in your research, please kindly cite [our work](https://doi.org/10.1016/j.compbiomed.2019.04.030) as:
+If you use this dataset in your research, please kindly cite [our work](https://authors.elsevier.com/a/1Y-8q2OYcrjqA) as:
 
 ```bibtex
 @article{javadi2019novel,
