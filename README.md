@@ -220,7 +220,7 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>82.57</td>
       <td>86.58</td>
       <td>79.65</td>
-      <td>+0.+0.4447</td>
+      <td>+0.4447</td>
     </tr>
     <tr>
       <td >Acrosome(DMTL)</td>
@@ -234,7 +234,6 @@ If you would like to add a new result, you can [open a pull request](https://git
     </tr>
 	    <tr>
       <td >Head(DTL)</td>
-
 	 <td>84.00</td>
       <td>87.01</td>
       <td>91.78</td>
@@ -242,7 +241,6 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>89.36</td>
       <td>81.56</td>
       <td>+0.5775</td>
-
     </tr>
 	    <tr>
       <td >Head(DMTL)</td>
