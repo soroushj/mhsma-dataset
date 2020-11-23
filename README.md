@@ -209,11 +209,9 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>88.08</td>
       <td>+0.5910</td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td rowspan="6"><a href="https://doi.org/10.1016/j.compbiomed.2020.104121">Effect of Deep Transfer and Multi-task Learning on Sperm Abnormality Detection</a> (Nov 2020)</td>
-      <td>Acrosome(DTL)</td>
+      <td>Acrosome (DTL)</td>
       <td>79.00</td>
       <td>80.24</td>
       <td>93.42</td>
@@ -223,7 +221,7 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>+0.4447</td>
     </tr>
     <tr>
-      <td >Acrosome(DMTL)</td>
+      <td >Acrosome (DMTL)</td>
       <td>80.66</td>
       <td>82.42</td>
       <td>92.48</td>
@@ -232,9 +230,9 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>78.19</td>
       <td>+0.4984</td>
     </tr>
-	    <tr>
-      <td >Head(DTL)</td>
-	 <td>84.00</td>
+    <tr>
+      <td >Head (DTL)</td>
+      <td>84.00</td>
       <td>87.01</td>
       <td>91.78</td>
       <td>87.92</td>
@@ -242,9 +240,9 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>81.56</td>
       <td>+0.5775</td>
     </tr>
-	    <tr>
-      <td >Head(DMTL)</td>
-	<td>82.00</td>
+    <tr>
+      <td >Head (DMTL)</td>
+      <td>82.00</td>
       <td>82.60</td>
       <td>95.43</td>
       <td>84.89</td>
@@ -252,8 +250,8 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>78.40</td>
       <td>+0.5021</td>
     </tr>
-	    <tr>
-      <td >Vacuole(DTL)</td>
+    <tr>
+      <td >Vacuole (DTL)</td>
       <td>94.00</td>
       <td>95.18</td>
       <td>98.09</td>
@@ -263,7 +261,7 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>+0.7082</td>
     </tr>
     <tr>
-      <td>Vacuole(DMTL)</td>
+      <td>Vacuole (DMTL)</td>
       <td>92.33</td>
       <td>94.75</td>
       <td>96.56</td>
@@ -272,7 +270,6 @@ If you would like to add a new result, you can [open a pull request](https://git
       <td>93.64</td>
       <td>+0.6348</td>
     </tr>
-
   </tbody>
 </table>
 
