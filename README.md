@@ -8,7 +8,7 @@ The training, validation, and test sets contain 1000, 240, and 300 images, respe
 Images are available in two different crop sizes: 128x128- and 64x64-pixel.
 The following figure shows two versions of the same instance.
 
-| 128x128-pixel                                    | 64x64-pixel                                    |
+|                  128x128-pixel                   |                  64x64-pixel                   |
 | :----------------------------------------------: | :--------------------------------------------: |
 | ![MHSMA-128 sample](sample/mhsma-128-sample.png) | ![MHSMA-64 sample](sample/mhsma-64-sample.png) |
 
