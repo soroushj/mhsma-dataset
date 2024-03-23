@@ -173,7 +173,7 @@ If you would like to add a new result, you can [open a pull request](https://git
       <th>Recall</th>
       <th>F<sub>0.5</sub> score</th>
       <th>G-mean</th>
-      <th>AUC</th>
+      <th>ROC AUC</th>
       <th>MCC</th>
     </tr>
   </thead>
